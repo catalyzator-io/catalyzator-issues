@@ -24,8 +24,8 @@ This repository is dedicated to managing:
 - Clearly explain how the feature benefits users and aligns with our vision.
 
 ### 3. General Discussions
-- Open a new issue with the `discussion` label to start a conversation.
-- Share insights or feedback to contribute to our continuous improvement.
+- Use the [Discussion Template](https://github.com/catalyzator-io/catalyzator-issues/issues/new?template=discussion.md) to create a productive discussion.
+- Provide clear and detailed information on the subject and question you would like to discuss.
 
 ---
 
