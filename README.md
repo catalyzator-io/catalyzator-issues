@@ -36,7 +36,6 @@ To ensure effective tracking and resolution, we use the following labels:
 - **Enhancement:** Improvements to existing features.
 - **Feature Request:** Suggestions for new features.
 - **Discussion:** Open-ended conversations or questions.
-- **High Priority:** Time-sensitive issues or features critical to user experience.
 
 Our team reviews and updates issues weekly to ensure timely responses and resolutions.
 
